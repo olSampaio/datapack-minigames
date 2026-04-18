@@ -10,3 +10,5 @@ item replace entity @s inventory.8 with minecraft:tipped_arrow[minecraft:potion_
 item replace entity @s hotbar.0 with minecraft:stick[enchantments={knockback:2,sharpness:3}]
 item replace entity @s hotbar.1 with minecraft:bow
 item replace entity @s hotbar.8 with minecraft:golden_carrot 12
+
+scoreboard players set @s archer 0

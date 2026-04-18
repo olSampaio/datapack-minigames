@@ -14,3 +14,5 @@ item replace entity @s hotbar.5 with minecraft:lingering_potion[potion_contents=
 item replace entity @s hotbar.6 with minecraft:lingering_potion[potion_contents={potion:poison}]
 item replace entity @s hotbar.7 with minecraft:lingering_potion[potion_contents={potion:poison}]
 item replace entity @s hotbar.8 with minecraft:melon_slice 14
+
+scoreboard players set @s alchemist 0

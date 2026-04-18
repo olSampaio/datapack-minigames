@@ -8,3 +8,5 @@ item replace entity @s armor.feet with minecraft:copper_boots
 item replace entity @s hotbar.0 with minecraft:iron_spear[enchantments={lunge:2,sharpness:3}]
 item replace entity @s hotbar.1 with minecraft:potion[potion_contents={potion:strong_swiftness}]
 item replace entity @s hotbar.8 with minecraft:cooked_salmon 6
+
+scoreboard players set @s spearman 0

@@ -9,3 +9,5 @@ item replace entity @s hotbar.0 with minecraft:wooden_sword[enchantments={sharpn
 item replace entity @s hotbar.8 with minecraft:cooked_chicken 5
 
 effect give @s speed infinite 2
+
+scoreboard players set @s pyromancer 0

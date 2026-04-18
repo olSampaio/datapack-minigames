@@ -10,3 +10,5 @@ item replace entity @s inventory.8 with minecraft:spectral_arrow 10
 item replace entity @s hotbar.0 with minecraft:copper_axe
 item replace entity @s hotbar.1 with minecraft:crossbow
 item replace entity @s hotbar.8 with minecraft:cooked_mutton 7
+
+scoreboard players set @s hunter 0
